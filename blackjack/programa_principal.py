@@ -1,4 +1,3 @@
-from ast import Continue
 import modulos as md
 from os import system
 from time import sleep
